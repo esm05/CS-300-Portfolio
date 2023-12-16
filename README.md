@@ -2,7 +2,7 @@
 An overview of the completed Project 2 @ SNHU
 
 
-# What was the problem you were solving in the projects for this course?
+## What was the problem you were solving in the projects for this course?
 - The problem we were trying to solve was storing and displaying course information about courses with a course ID, title, and prerequisites if any belonging to the course for the client ABC University.
   
 # How did you approach the problem? Consider why data structures are important to understand.
